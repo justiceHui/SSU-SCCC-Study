@@ -17,7 +17,7 @@
 | ----- | -------- | ------------------------- |
 | 1차시 | 22.10.05 | Hashing, KMP              |
 | 2차시 | 22.10.10 | Suffix Array, LCP Array   |
-| 3차시 | 22.10.12 | Heavy Light Decomposition |
+| 3차시 | 22.10.13 | Heavy Light Decomposition |
 | 4차시 | TBD      | Centroid Decomposition    |
 | 5차시 | TBD      | TBD                       |
 | 6차시 | TBD      | TBD                       |
