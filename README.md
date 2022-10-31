@@ -6,7 +6,7 @@
 * [2022-spring-basic](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-spring-basic) : 2022년 SCCC 봄 초급 스터디(기초 알고리즘 + 문제 풀이)
 * [2022-spring-adv](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-spring-adv) : 2022년 SCCC 봄 중급 스터디(문제 풀이)
 * [2022-summer-sinchon-adv](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-summer-sinchon-adv) : ICPC Sinchon 2022 Summer Algorithm Camp Advanced 강의(중급 알고리즘)
-* 2022-autumn-basic : 2022년 SCCC 가을 초급 스터디(2학기 신입 부원 대상, 봄 초급 스터디와 동일한 내용으로 진행)
+* 2022-autumn-basic : 2022년 SCCC 가을 초급 스터디(2학기 신입 부원 대상, 봄 초급 스터디와 동일한 내용)
 * [2022-autumn-adv](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-autumn-adv) : 2022년 SCCC 가을 중급 스터디(알고리즘 위주)
 
 ### 참고
