@@ -13,14 +13,14 @@
 
 ### 스터디 일정
 
-|       | 날짜     | 내용                      |
-| ----- | -------- | ------------------------- |
-| 1차시 | 22.10.05 | Hashing, KMP              |
-| 2차시 | 22.10.10 | Suffix Array, LCP Array   |
-| 3차시 | 22.10.13 | Heavy Light Decomposition |
-| 4차시 | 22.10.31 | Geometry 1                |
-| 5차시 | 22.11.02 | Geometry 2                |
-| 6차시 | TBD      | Centroid Decomposition    |
+|       | 날짜     | 내용                                                         |
+| ----- | -------- | ------------------------------------------------------------ |
+| 1차시 | 22.10.05 | Hashing, KMP                                                 |
+| 2차시 | 22.10.10 | Suffix Array, LCP Array                                      |
+| 3차시 | 22.10.13 | Heavy Light Decomposition                                    |
+| 4차시 | 22.10.31 | CCW, Line Segment Intersection, Point in Polygon Test, Convex Hull |
+| 5차시 | 22.11.02 | Rotating Calipers, Closest Pair, Tangent Line of Convex Polygon |
+| 6차시 | 22.11.09 | Centroid Decomposition                                       |
 
 ### 기타
 
