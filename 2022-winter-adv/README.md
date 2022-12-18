@@ -23,8 +23,8 @@
 |       | 날짜     | 내용                                                         |
 | ----- | -------- | ------------------------------------------------------------ |
 | 1차시 | 22.12.19 | Sqrt decomposition                                           |
-| 2차시 | 22.12.22 | Maximum Flow, Minimum cut                                    |
-| 3차시 | 22.12.26 | Bipartite matching, Konig's theorem                          |
+| 2차시 | 22.12.22 | Ford-Fulkerson method, Edmonds-Karp algorithm, Min-cut Max-flow theorem |
+| 3차시 | 22.12.26 | Bipartite matching, Konig's theorem, Dilworth's theorem      |
 | 4차시 | 22.12.29 | Dinic's algorithm, MCMF                                      |
 | 5차시 | 23.01.02 | Rotate sweep line technique                                  |
 | 6차시 | 23.01.09 | Convex hull trick, Hirschberg                                |
