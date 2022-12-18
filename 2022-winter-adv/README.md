@@ -10,7 +10,7 @@
   * [2022 봄 초급 스터디](../2022-spring-basic), [2022 겨울 중급 스터디](../2022-winter-intermediate) 전체 범위
   * 추가로 필요한 내용은 매 차시 슬라이드에서 언급
 * 시간 및 장소
-  * 12월 넷째 주 ~ 1월 다섯째 주 월요일, 총 7회
+  * 12월 넷째 주 ~ 1월 넷째 주, 12월 월/목, 1월 월요일, 총 8회
   * 온라인으로 진행
 
 ### 스터디 자료
@@ -23,12 +23,13 @@
 |       | 날짜     | 내용                                                         |
 | ----- | -------- | ------------------------------------------------------------ |
 | 1차시 | 22.12.19 | Sqrt decomposition                                           |
-| 2차시 | 22.12.26 | Maximum flow, Bipartite matching                             |
-| 3차시 | 23.01.02 | MCMF, Dinic's algorithm                                      |
-| 4차시 | 23.01.09 | Rotate sweep line technique                                  |
-| 5차시 | 23.01.16 | Convex hull trick, Hirschberg                                |
-| 6차시 | 23.01.23 | Divide and conquer optimization, Monotone queue optimization |
-| 7차시 | 23.01.30 | Aliens trick                                                 |
+| 2차시 | 22.12.22 | Maximum Flow, Minimum cut                                    |
+| 3차시 | 22.12.26 | Bipartite matching, Konig's theorem                          |
+| 4차시 | 22.12.29 | Dinic's algorithm, MCMF                                      |
+| 5차시 | 23.01.02 | Rotate sweep line technique                                  |
+| 6차시 | 23.01.09 | Convex hull trick, Hirschberg                                |
+| 7차시 | 23.01.16 | Divide and conquer optimization, Monotone queue optimization |
+| 8차시 | 23.01.23 | Aliens trick                                                 |
 
 ### 기타
 
