@@ -4,12 +4,16 @@
 
 ### 스터디 목록
 
-* [2022-spring-basic](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-spring-basic) : 2022년 SCCC 봄 초급 스터디(기초 알고리즘 + 문제 풀이)
-* [2022-spring-intermediate](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-spring-intermediate) : 2022년 SCCC 봄 중급 스터디(문제 풀이)
-* [2022-summer-sinchon-intermediate](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-summer-sinchon-intermediate) : ICPC Sinchon 2022 Summer Algorithm Camp 중급 알고리즘 강의
-* [2022-autumn-adv](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-autumn-adv) : 2022년 SCCC 가을 고급 스터디(고급 알고리즘 위주)
-* [2022-winter-intermediate](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-winter-intermediate) : 2022년 SCCC 겨울 중급 스터디(중급 알고리즘 + 문제 풀이)
-* [2022-winter-adv](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-winter-adv): 2022년 SCCC 겨울 고급 스터디(고급 알고리즘 + 문제 풀이)
+* 2022 SCCC 스터디
+  * [2022-spring-basic](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-spring-basic) : 봄 초급 스터디(기초 알고리즘 + 문제 풀이)
+  * [2022-spring-intermediate](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-spring-intermediate) : 봄 중급 스터디(문제 풀이)
+  * [2022-autumn-adv](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-autumn-adv) : 가을 고급 스터디(고급 알고리즘 위주)
+  * [2022-winter-intermediate](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-winter-intermediate) : 겨울 중급 스터디(중급 알고리즘 + 문제 풀이)
+  * [2022-winter-adv](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-winter-adv) : 겨울 고급 스터디(고급 알고리즘 + 문제 풀이)
+* 2023 SCCC 스터디
+  * [2023-spring-problem-solving](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2023-spring-problem-solving) : 봄 문제 풀이 스터디
+* 기타
+  * [2022-summer-sinchon-intermediate](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-summer-sinchon-intermediate) : ICPC Sinchon 2022 Summer Algorithm Camp 중급 알고리즘 강의
 
 ### 개념 설명 슬라이드 바로가기
 
