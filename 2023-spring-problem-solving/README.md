@@ -4,7 +4,7 @@
 
 * 스터디 내용
   * 매주 다양한 난이도로 8문제씩 제공
-  * [solved.ac](https://solved.ac) 기준 S5 ~ G3 3문제, G2 ~ P1 3문제, D5 ~ D3 2문제
+  * [solved.ac](https://solved.ac) 기준 S5 ~ G3 3문제, G2 ~ P1 3문제, D5 ~ D3 2문제, D2 ~ R5 1문제
 * 권장 대상
   * 여러분 모두
 * 선수 조건
