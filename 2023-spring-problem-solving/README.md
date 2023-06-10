@@ -16,8 +16,9 @@
 ### 스터디 자료
 
 * 연습 문제 풀이 : [./solution](./solution)
-* 연습 문제 모음 : TBA
+* 연습 문제 모음 : [Easy](https://www.acmicpc.net/workbook/view/15857), [Medium](https://www.acmicpc.net/workbook/view/15858), [Hard](https://www.acmicpc.net/workbook/view/15859)
 
 ### 기타
 
 * 이 스터디는 [**현대모비스**](https://www.mobis.co.kr/kr/index.do)의 우수 SW 동아리 지원을 받아 진행되었습니다.
+

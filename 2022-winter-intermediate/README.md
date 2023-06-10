@@ -17,7 +17,7 @@
 ### 스터디 자료
 
 * 개념 설명 슬라이드 : [./slide](./slide)
-* 연습 문제 모음 : 슬라이드 참고
+* 연습 문제 모음 : [https://www.acmicpc.net/workbook/view/15860](https://www.acmicpc.net/workbook/view/15860)
 
 ### 스터디 일정
 
