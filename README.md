@@ -12,10 +12,12 @@
   * [2022-winter-adv](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-winter-adv) : 겨울 고급 강의
 * 2023 SCCC 스터디
   * [2023-spring-problem-solving](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2023-spring-problem-solving) : 봄 문제 풀이 연습
+  * [2023-summer-basic](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2023-summer-basic) : 여름 초급 강의
+  * [2023-summer-problem-solving](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2023-summer-problem-setting) : 여름 문제 출제 강의
 * 기타
   * [2022-summer-sinchon-intermediate](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-summer-sinchon-intermediate) : ICPC Sinchon 2022 Summer Algorithm Camp 중급 알고리즘 강의
 
-### 개념 설명 슬라이드 바로가기
+### 개념 설명 슬라이드 바로가기 (2022년 자료)
 
 | 개념                                                         | 슬라이드 바로가기                                            |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
