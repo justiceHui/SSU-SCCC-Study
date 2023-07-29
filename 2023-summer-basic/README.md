@@ -18,7 +18,7 @@
 ### 스터디 자료
 
 * 개념 설명 슬라이드 : [./slide](./slide)
-* 연습 문제 모음 : TBA
+* 연습 문제 모음 : [[필수 문제 모음]](https://www.acmicpc.net/workbook/view/16296), [[추가 문제 모음 1]](https://www.acmicpc.net/workbook/view/16297), [[추가 문제 모음 2]](https://www.acmicpc.net/workbook/view/16298)
 
 ### 스터디 일정
 
