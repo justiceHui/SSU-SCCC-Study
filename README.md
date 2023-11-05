@@ -17,6 +17,7 @@
   * [2023-autumn-contest](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2023-autumn-contest) : 가을 내부 대회
 * 기타
   * [2022-summer-sinchon-intermediate](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-summer-sinchon-intermediate) : ICPC Sinchon 2022 Summer Algorithm Camp 중급 알고리즘 강의
+  * [uncategorized-slides](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/uncategorized-slides) : 미분류 자료 (강연, 계절학교 등)
 
 ### 개념 설명 슬라이드 바로가기 (2022년 자료)
 
