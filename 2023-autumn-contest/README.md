@@ -31,6 +31,7 @@
 * 문제지: `00-statement.pdf`
   * 팀 대회의 영어 문제지는 [여기](https://codeforces.com/gym/103373/attachments/download/14574/statements.pdf)에서 확인할 수 있습니다. `team-statement.pdf`는 가장 쉬운 4문제의 한글 번역본입니다.
 * 풀이 및 정답 코드: `00-solution.pdf`
+* 개인전 문제 모음 : [https://www.acmicpc.net/workbook/view/17504](https://www.acmicpc.net/workbook/view/17504)
 
 ### 기타
 
