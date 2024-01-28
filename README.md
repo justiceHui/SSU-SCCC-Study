@@ -15,6 +15,7 @@
   * [2023-summer-basic](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2023-summer-basic) : 여름 초급 강의
   * [2023-summer-problem-setting](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2023-summer-problem-setting) : 여름 문제 출제 강의
   * [2023-autumn-contest](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2023-autumn-contest) : 가을 내부 대회
+  * [2023-winter-omakase](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2023-winter-omakase): 겨울 강의
 * 기타
   * [2022-summer-sinchon-intermediate](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-summer-sinchon-intermediate) : ICPC Sinchon 2022 Summer Algorithm Camp 중급 알고리즘 강의
   * [uncategorized-slides](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/uncategorized-slides) : 미분류 자료 (강연, 계절학교 등)
