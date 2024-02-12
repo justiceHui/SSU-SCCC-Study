@@ -24,6 +24,7 @@
 
 | 개념                                                         | 슬라이드 바로가기                                            |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ICPC 소개 & 대회 준비 방법                                   | [23 성균관대 강연](https://github.com/justiceHui/SSU-SCCC-Study/blob/master/uncategorized-slides/2023-05-skku-icpc-preparation.pdf) |
 | PS 입문하기                                                  | [23 여름 초급 01-1](https://github.com/justiceHui/SSU-SCCC-Study/blob/master/2023-summer-basic/slide/01-1-introduce.pdf) |
 | 입출력 처리                                                  | [23 여름 초급 01-2](https://github.com/justiceHui/SSU-SCCC-Study/blob/master/2023-summer-basic/slide/01-2-input-output.pdf) |
 | PS를 위한 C++                                                | [23 여름 초급 01-3](https://github.com/justiceHui/SSU-SCCC-Study/blob/master/2023-summer-basic/slide/01-3-cpp-for-ps.pdf) |
