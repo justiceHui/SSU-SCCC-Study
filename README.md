@@ -18,7 +18,7 @@
   * [2023-winter-omakase](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2023-winter-omakase): 겨울 강의
 * 기타
   * [2022-summer-sinchon-intermediate](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-summer-sinchon-intermediate) : ICPC Sinchon 2022 Summer Algorithm Camp 중급 알고리즘 강의
-  * [uncategorized-slides](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/uncategorized-slides) : 미분류 자료 (강연, 계절학교 등)
+  * [uncategorized-slides](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/uncategorized-slides) : 미분류 자료 (외부 강의/강연, 계절학교 등)
 
 ### 개념 설명 슬라이드 바로가기 (2022-2023년 자료)
 
@@ -61,19 +61,20 @@
 | 분할 정복 2-2 (카라츠바 알고리즘)                            | [23 여름 초급 05-4](https://github.com/justiceHui/SSU-SCCC-Study/blob/master/2023-summer-basic/slide/05-4-karatsuba-algorithm.pdf) |
 | 자료구조 3-1 (모노톤 스택, 모노톤 큐)                        | [22 겨울 중급 01](https://github.com/justiceHui/SSU-SCCC-Study/blob/master/2022-winter-intermediate/slide/01.pdf) |
 | 자료구조 3-2 (유니온 파인드의 응용)                          | [23 겨울 02](https://justicehui.github.io/medium-algorithm/2024/02/04/union-find-application/) |
-| 자료구조 3-3 (평방 분할, 세그먼트 트리)                      | [22 겨울 중급 02](https://github.com/justiceHui/SSU-SCCC-Study/blob/master/2022-winter-intermediate/slide/02.pdf) |
+| 자료구조 4 (평방 분할, 세그먼트 트리)                        | [22 겨울 중급 02](https://github.com/justiceHui/SSU-SCCC-Study/blob/master/2022-winter-intermediate/slide/02.pdf) |
 | 동적 계획법 2-1 (카탈란 수, 스털링 수, 벨 수, 분할 수)       | [23 겨울 03](https://justicehui.github.io/medium-algorithm/2024/02/10/combinatorics/) |
 | 동적 계획법 2-2 (위상정렬 DP, 트리 DP, 구간 DP, 기댓값 DP)   | [22 겨울 중급 03](https://github.com/justiceHui/SSU-SCCC-Study/blob/master/2022-winter-intermediate/slide/03.pdf) |
 | 동적 계획법 2-3 (게임이론+DP, 자료구조+DP, 그리디+DP, 선형 점화식의 빠른 계산) | [22 겨울 중급 04](https://github.com/justiceHui/SSU-SCCC-Study/blob/master/2022-winter-intermediate/slide/04.pdf) |
 | 정수론 2 (확장 유클리드 알고리즘, 페르마 소정리, 중국인의 나머지 정리, 이항 계수) | [22 겨울 중급 05](https://github.com/justiceHui/SSU-SCCC-Study/blob/master/2022-winter-intermediate/slide/05.pdf) |
 | 그래프 이론 3-1 (오일러 투어 테크닉, 스파스 테이블, LCA)     | [22 겨울 중급 06](https://github.com/justiceHui/SSU-SCCC-Study/blob/master/2022-winter-intermediate/slide/06.pdf) |
 | 그래프 이론 3-2 (강한 연결 요소, 2-SAT)                      | [22 겨울 중급 07](https://github.com/justiceHui/SSU-SCCC-Study/blob/master/2022-winter-intermediate/slide/07.pdf) |
+| 문자열 1 (트라이, 해싱, KMP)                                 | [22 겨울 중급 08](https://github.com/justiceHui/SSU-SCCC-Study/blob/master/2022-winter-intermediate/slide/08.pdf) |
+| Sprague-Grundy Theorem                                       | [21 선린 가을 10](https://github.com/justiceHui/SSU-SCCC-Study/blob/master/uncategorized-slides/2021-12-sunrin-game-theory.pdf) |
 | 그래프 이론 4-1 (Heavy Light Decomposition)                  | [22 가을 고급 03](https://github.com/justiceHui/SSU-SCCC-Study/blob/master/2022-autumn-adv/slide/03.pdf) |
 | 그래프 이론 4-2 (Centroid Decomposition)                     | [22 가을 고급 06](https://github.com/justiceHui/SSU-SCCC-Study/blob/master/2022-autumn-adv/slide/06.pdf) |
-| 문자열 1 (트라이, 해싱, KMP)                                 | [22 겨울 중급 08](https://github.com/justiceHui/SSU-SCCC-Study/blob/master/2022-winter-intermediate/slide/08.pdf) |
-| 문자열 2 (접미사 배열, LCP 배열)                             | [22 가을 고급 02](https://github.com/justiceHui/SSU-SCCC-Study/blob/master/2022-autumn-adv/slide/02.pdf) |
 | 기하 1 (CCW, 선분 교차 판별, 다각형 내부 판별, 볼록 껍질)    | [22 가을 고급 04](https://github.com/justiceHui/SSU-SCCC-Study/blob/master/2022-autumn-adv/slide/04.pdf) |
 | 기하 2 (가장 먼 두 점, 가장 가까운 두 점, 볼록 다각형의 접선을 이용한 최적화) | [22 가을 고급 05](https://github.com/justiceHui/SSU-SCCC-Study/blob/master/2022-autumn-adv/slide/05.pdf) |
+| 문자열 2 (접미사 배열, LCP 배열)                             | [22 가을 고급 02](https://github.com/justiceHui/SSU-SCCC-Study/blob/master/2022-autumn-adv/slide/02.pdf) |
 | 평방 분할의 응용                                             | [22 겨울 고급 01](https://github.com/justiceHui/SSU-SCCC-Study/blob/master/2022-winter-adv/slide/01.pdf) |
 | 네트워크 플로우 1 (포드 풀커슨, 에드몬드 카프, 최소 컷)      | [22 겨울 고급 02](https://github.com/justiceHui/SSU-SCCC-Study/blob/master/2022-winter-adv/slide/02.pdf) |
 | 네트워크 플로우 2 (이분 매칭, 쾨닉 정리, 딜워스 정리)        | [22 겨울 고급 03](https://github.com/justiceHui/SSU-SCCC-Study/blob/master/2022-winter-adv/slide/03.pdf) |
@@ -82,6 +83,22 @@
 | DP 최적화 1 (컨벡스헐 트릭, 히르쉬버그 알고리즘)             | [22 겨울 고급 06](https://github.com/justiceHui/SSU-SCCC-Study/blob/master/2022-winter-adv/slide/06.pdf) |
 | DP 최적화 2 (분할 정복 최적화, 단조 큐 최적화)               | [22 겨울 고급 07](https://github.com/justiceHui/SSU-SCCC-Study/blob/master/2022-winter-adv/slide/07.pdf) |
 | DP 최적화 3 (에일리언 트릭)                                  | [22 겨울 고급 08](https://github.com/justiceHui/SSU-SCCC-Study/blob/master/2022-winter-adv/slide/08.pdf) |
+
+### TODO
+
+시간이 부족해서 다루지 못한 개념들을 공부할 수 있는 링크를 모아놓았습니다.
+
+* 자료구조 4-2: Segment tree with Lazy propagation ([kks227](https://blog.naver.com/kks227/220824350353))
+* 자료구조 4-3: sweeping ([kks227](https://blog.naver.com/kks227/220907708368))
+* 자료구조 4-4: Persistent segment tree ([justiceHui](https://justicehui.github.io/medium-algorithm/2020/02/29/PST/))
+* Meet in the middle ([kks227](https://blog.naver.com/kks227/221382873753))
+* Mo's algorithm ([justiceHui](https://justicehui.github.io/hard-algorithm/2019/06/17/MoAlgorithm/))
+* 랜덤으로 문제 풀기 ([justiceHui](https://justicehui.github.io/hard-algorithm/2020/03/23/random/))
+* Parallel binary search ([kks227](https://blog.naver.com/kks227/221410398513))
+* 그래프 이론 4-3: 트리 압축 ([edenooo](https://infossm.github.io/blog/2021/09/21/virtual-tree/))
+* 문자열 2-2: Aho-Corasick ([kks227](https://blog.naver.com/kks227/220992598966))
+* FFT ([namnamseo](https://namnamseo.tistory.com/entry/FFT-in-competitive-programming))
+* DP 최적화 4: 키타마사법 ([justiceHui](https://justicehui.github.io/hard-algorithm/2021/03/13/kitamasa/))
 
 ### 참고
 
