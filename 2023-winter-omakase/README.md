@@ -16,8 +16,8 @@
 | 1차시 | 24.01.29 (월) | 분할 상환 분석(amortized analysis), 동적 배열(dynamic array) | S3 ~ G3 | [블로그](https://justicehui.github.io/medium-algorithm/2024/01/28/amortized-analysis/) |
 | 2차시 | 24.02.05 (월) | 유니온 파인드 200% 활용하기                                  | G3 ~ P3 | [블로그](https://justicehui.github.io/medium-algorithm/2024/02/04/union-find-application/) |
 | 3차시 | 24.02.12 (월) | 다양한 경우의 수 세기 (카탈란 수, 스털링 수, 분할 수, 교란 순열) | G5 ~ P3 | [블로그](https://justicehui.github.io/medium-algorithm/2024/02/10/combinatorics/) |
+| 4차시 | 24.02.16 (금) | 제곱근 분할 (sqrt decomposition)                             | P5 ~ R5 | [슬라이드](https://github.com/justiceHui/SSU-SCCC-Study/blob/master/2022-winter-adv/slide/01.pdf), [블로그(Mo's algo.)](https://justicehui.github.io/hard-algorithm/2019/06/17/MoAlgorithm/) |
 | 예비  | TBD           | 랜덤으로 문제 풀기                                           | G3 ~ P1 |                                                              |
-| 예비  | TBD           | 제곱근 분할 (sqrt decomposition)                             | P5 ~ R5 | [슬라이드](https://github.com/justiceHui/SSU-SCCC-Study/blob/master/2022-winter-adv/slide/01.pdf), [블로그(Mo's algo.)](https://justicehui.github.io/hard-algorithm/2019/06/17/MoAlgorithm/) |
 
 ### 기타
 
