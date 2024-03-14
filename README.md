@@ -16,9 +16,13 @@
   * [2023-summer-problem-setting](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2023-summer-problem-setting) : 여름 문제 출제 강의
   * [2023-autumn-contest](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2023-autumn-contest) : 가을 내부 대회
   * [2023-winter-omakase](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2023-winter-omakase): 겨울 강의
+  * [ssu-sccc/2023scon](https://github.com/ssu-sccc/2023scon): 2023 숭실대학교 프로그래밍 대회 (문제지, 풀이 슬라이드, 정답 코드, 운영 자료)
+    * [blog](https://justicehui.github.io/review/2023/05/21/scon/): 대회 개최 후기
 * 기타
   * [2022-summer-sinchon-intermediate](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-summer-sinchon-intermediate) : ICPC Sinchon 2022 Summer Algorithm Camp 중급 알고리즘 강의
   * [uncategorized-slides](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/uncategorized-slides) : 미분류 자료 (외부 강의/강연, 계절학교 등)
+  * [justiceHui/icpc-teamnote](https://github.com/justiceHui/icpc-teamnote): ICPC 팀노트 (2021 AC-Complete, 2022 NLP, 2023 PS akgwi)
+  * [justiceHui/icpc-teamnote-for-newbie](https://github.com/justiceHui/icpc-teamnote-for-newbie): ICPC 뉴비를 위한 팀노트 샘플
 
 ### 개념 설명 슬라이드 바로가기 (2022-2023년 자료)
 
