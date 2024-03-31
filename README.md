@@ -63,6 +63,7 @@
 | 그래프 이론 2-4 (벨만 포드 알고리즘)                         | [23 여름 초급 12-3](https://github.com/justiceHui/SSU-SCCC-Study/blob/master/2023-summer-basic/slide/12-3-bellman-ford.pdf) |
 | 분할 정복 2-1 (가장 가까운 두 점)                            | [23 여름 초급 05-3](https://github.com/justiceHui/SSU-SCCC-Study/blob/master/2023-summer-basic/slide/05-3-closest-pair.pdf) |
 | 분할 정복 2-2 (카라츠바 알고리즘)                            | [23 여름 초급 05-4](https://github.com/justiceHui/SSU-SCCC-Study/blob/master/2023-summer-basic/slide/05-4-karatsuba-algorithm.pdf) |
+| 그리디 기법 2                                                | [23 여름학교 강의](https://github.com/justiceHui/SSU-SCCC-Study/blob/master/uncategorized-slides/2023-08-ioi-summer-day6-greedy.pdf) |
 | 자료구조 3-1 (모노톤 스택, 모노톤 큐)                        | [22 겨울 중급 01](https://github.com/justiceHui/SSU-SCCC-Study/blob/master/2022-winter-intermediate/slide/01.pdf) |
 | 자료구조 3-2 (유니온 파인드의 응용)                          | [23 겨울 02](https://justicehui.github.io/medium-algorithm/2024/02/04/union-find-application/) |
 | 자료구조 4 (평방 분할, 세그먼트 트리)                        | [22 겨울 중급 02](https://github.com/justiceHui/SSU-SCCC-Study/blob/master/2022-winter-intermediate/slide/02.pdf) |
@@ -103,8 +104,10 @@
 * 문자열 2-2: Aho-Corasick ([kks227](https://blog.naver.com/kks227/220992598966))
 * FFT ([namnamseo](https://namnamseo.tistory.com/entry/FFT-in-competitive-programming))
 * DP 최적화 4: 키타마사법 ([justiceHui](https://justicehui.github.io/hard-algorithm/2021/03/13/kitamasa/))
+* 기하 4-1: 평면 그래프의 듀얼 그래프 ([ahgus89](https://algoshitpo.github.io/2020/03/23/dual/))
+* 기하 4-2: 반평면 교집합 ([juno](https://github.com/infossm/infossm.github.io/blob/master/_posts/2019-09-17-Half-Plane-Intersection.md))
 
 ### 참고
 
-* 2022-2023년 SCCC 스터디는 [**현대모비스**](https://www.mobis.co.kr/kr/index.do)의 우수 SW 동아리 지원을 받아 진행되었습니다.
+* 2022-2024년 SCCC 스터디는 [**현대모비스**](https://www.mobis.co.kr/kr/index.do)의 우수 SW 동아리 지원을 받아 진행되었습니다.
 * <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" height="25px"> 이 저작물은 크리에이티브 커먼즈 저작자표시-비영리-동일조건변경허락 2.0 대한민국 라이센스(CC BY-NC-SA 2.0 KR)에 따라 이용할 수 있습니다.
