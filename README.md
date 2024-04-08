@@ -89,7 +89,7 @@
 | DP 최적화 2 (분할 정복 최적화, 단조 큐 최적화)               | [22 겨울 고급 07](https://github.com/justiceHui/SSU-SCCC-Study/blob/master/2022-winter-adv/slide/07.pdf) |
 | DP 최적화 3 (에일리언 트릭)                                  | [22 겨울 고급 08](https://github.com/justiceHui/SSU-SCCC-Study/blob/master/2022-winter-adv/slide/08.pdf) |
 
-### TODO
+### 더 공부하기
 
 시간이 부족해서 다루지 못한 개념들을 공부할 수 있는 링크를 모아놓았습니다.
 
@@ -106,6 +106,10 @@
 * DP 최적화 4: 키타마사법 ([justiceHui](https://justicehui.github.io/hard-algorithm/2021/03/13/kitamasa/))
 * 기하 4-1: 평면 그래프의 듀얼 그래프 ([ahgus89](https://algoshitpo.github.io/2020/03/23/dual/))
 * 기하 4-2: 반평면 교집합 ([juno](https://github.com/infossm/infossm.github.io/blob/master/_posts/2019-09-17-Half-Plane-Intersection.md))
+
+### 인생이 너무 지루한 것 같다면...
+
+[justiceHui/Unknown-To-Wellknown](https://github.com/justiceHui/Unknown-To-Wellknown) 에 있는 내용만 전부 알아도 solved.ac 마스터 보장!
 
 ### 참고
 
