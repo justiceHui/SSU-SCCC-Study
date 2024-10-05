@@ -15,9 +15,12 @@
   * [2023-summer-basic](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2023-summer-basic) : 여름 초급 강의
   * [2023-summer-problem-setting](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2023-summer-problem-setting) : 여름 문제 출제 강의
   * [2023-autumn-contest](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2023-autumn-contest) : 가을 내부 대회
-  * [2023-winter-omakase](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2023-winter-omakase): 겨울 강의
-  * [ssu-sccc/2023scon](https://github.com/ssu-sccc/2023scon): 2023 숭실대학교 프로그래밍 대회 (문제지, 풀이 슬라이드, 정답 코드, 운영 자료)
-    * [blog](https://justicehui.github.io/review/2023/05/21/scon/): 대회 개최 후기
+  * [2023-winter-omakase](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2023-winter-omakase) : 겨울 강의
+  * [ssu-sccc/2023scon](https://github.com/ssu-sccc/2023scon) : 2023 숭실대학교 프로그래밍 대회 (문제지, 풀이 슬라이드, 정답 코드, 운영 자료)
+    * [blog](https://justicehui.github.io/review/2023/05/21/scon/) : 대회 개최 후기
+* 2024 SCCC 스터디
+  * [2024-autumn-contest](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2024-autumn-contest) : 가을 내부 대회
+  * [ssu-sccc/2024scon](https://github.com/ssu-sccc/2024scon) : 2024 숭실대학교 프로그래밍 대회 (문제지, 풀이 슬라이드, 정답 코드)
 * 기타
   * [2022-summer-sinchon-intermediate](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-summer-sinchon-intermediate) : ICPC Sinchon 2022 Summer Algorithm Camp 중급 알고리즘 강의
   * [uncategorized-slides](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/uncategorized-slides) : 미분류 자료 (외부 강의/강연, 계절학교 등)
